@@ -27,3 +27,6 @@ The files can also be generated and installed by running `make install` in ![dow
 
 An Android application package (APK), with source files, is available, allowing you to type Mod-DH on a physical keyboard connected to your Android device. See the ![download](gfx/arrow-circle-down.png)[**android section**](android/) for detailed instructions.
 
+
+
+## please refer to the original repo this is just a personal fork
